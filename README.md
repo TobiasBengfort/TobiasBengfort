@@ -1,4 +1,4 @@
-# powlamaniowa
+# Classificatione
 SPACE D는 여백, 간격, 우주를 의미하는 **SPACE** 와 ‘Designer, Developer’의 **D** 를 합친 합성어로,  
 **‘알아듣지 못하는 용어로 생긴 소통의 간격을 줄인다'** 는 의미를 담고 있습니다.  
 
